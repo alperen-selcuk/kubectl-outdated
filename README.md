@@ -1,0 +1,1 @@
+# kubectl-outdated
